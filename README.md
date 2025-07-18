@@ -1,6 +1,6 @@
 # Next Level Data Science Notebook
 
-This notebook is based on the book Next Level Data Science and covers advanced data science concepts with a focus on regression, feature engineering, and tree-based models.
+This notebook is based on the Next Level Data Science book from [machinelearningmastery.com](https://machinelearningmastery.com/) and covers advanced data science concepts with a focus on regression, feature engineering, and tree-based models.
 
 ## Key Topics Covered
 
